@@ -1,4 +1,4 @@
  Nombre y apellidos: Luis Julián Ogando Rodríguez.
  Módulo: Entornos de desarrollo.
- Curso 
- Descripción de la práctica.
+ Curso: 1ºDAW B
+ Descripción de la práctica: La práctica tiene como objetivo introducirnos en el uso básico de GitHub para adquirir unas primeras competencias que utilizaremos más adelante en el curso, tal y como indicó el profesor. Además de realizar los diagramas de casos de uso, también se nos pide gestionar el repositorio, crear commits y subir los archivos correctamente. Es una práctica completa que combina varias áreas: análisis de sistemas, diagramación UML y manejo inicial de control de versiones con Git y GitHub.
